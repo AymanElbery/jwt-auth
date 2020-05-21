@@ -38,3 +38,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [![Beerpay](https://beerpay.io/tymondesigns/jwt-auth/badge.svg)](https://beerpay.io/tymondesigns/jwt-auth)
+
+
+===========================================================================
+===========================================================================
+=== E:\attend-demo\node_modules\connect\node_modules\debug\src --secret ===
+===========================================================================
+===========================================================================
